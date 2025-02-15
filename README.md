@@ -13,7 +13,7 @@ With a background in **Big Data Solution Architecture** and **Mobile Application
 ### **Data Retrieval & Visualization** | Conestoga College  
 📌 **Objective:** Extract, clean, and visualize data from online sources.  
 🛠 **Tech Stack:** SQL (MSDBMS), Power BI, Python, Data Cleaning, Data Transformation  
-- **Fetched real-time data** from APIs and integrated it into MSDBMS.  
+- **Fetched real-time stock prices** from APIs and integrated them into MSDBMS.  
 - **Designed optimized SQL queries** for data cleaning and transformation.  
 - **Developed interactive Power BI dashboards** to generate insights.  
 - Automated reporting, reducing manual effort by **50%**.  
