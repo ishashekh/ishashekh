@@ -1,24 +1,23 @@
-### Hi there! 👋
+# 👋 Hi, I'm Isha Shekh!  
+🚀 **Data Analyst | UI/UX Enthusiast | Tech Explorer**  
 
-Welcome to my GitHub profile! I'm Isha Shekh, a data analyst and UI/UX designer passionate about creating meaningful insights from data and designing intuitive digital experiences.
+With a background in **Big Data Solution Architecture** and **Mobile Applications Development**, my journey into the tech world has been driven by curiosity and a passion for data-driven solutions. From designing engaging **UI/UX experiences** to transforming raw datasets into actionable insights, I strive to bridge the gap between functionality and user experience.  
 
-### My Journey 🚀
-Originally an Information Technology graduate, my career has taken me through various fields, from web design to data analytics. My experience includes developing e-commerce websites, designing user interfaces with Figma and Adobe XD, and exploring the power of data analytics.
+## 💡 What I Do  
+- 📊 **Data Analytics:** Power BI, SQL, Python, R, Tableau  
+- 🎨 **UI/UX Design:** Figma, Adobe XD, Wireframing, Prototyping  
+- 🚀 **Big Data & Cloud:** Hadoop, Kafka, Spark  
+- 🛠 **Business Intelligence & Automation:** Microsoft Power Automate, SharePoint  
 
-Currently, I’m focused on refining my skills in data analysis, business intelligence, and visualization while actively looking for field-related job opportunities.
+## 🌟 Experience & Projects  
+- Built **HR Analytics Dashboards** to optimize workforce management  
+- Developed a **COVID-19 Global Dashboard** for real-time tracking and visualization  
+- Designed an **E-commerce Sales Dashboard** enhancing business performance metrics  
 
-### Skills & Technologies 💡
-- **Data Analysis & Visualization:** Excel, Power BI, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **UI/UX Design:** Figma, Adobe XD, wireframing, prototyping
-- **Web Technologies:** HTML, CSS, JavaScript
-- **Tools & Platforms:** Open Office, PowerPoint, Canva
+## 🎯 Looking Forward To  
+- Exploring **data science applications** in business intelligence  
+- Creating **engaging UI/UX experiences** backed by data  
+- Collaborating on **exciting open-source projects**  
 
-### Interests & Hobbies ✨
-- 📊 Diving into datasets to uncover trends and insights
-- 🎨 Designing engaging user experiences
-- 📚 Continuous learning and professional growth
-- 🌍 Exploring opportunities in freelancing and remote work
-
-### Let's Connect! 🤝
-If you're interested in collaborating, discussing data trends, or just want to say hi, feel free to connect with me!
-
+📬 **Let's Connect:**  
+[LinkedIn](https://linkedin.com/in/ishashekh) | ✉️ shekhisha01@gmail.com  
