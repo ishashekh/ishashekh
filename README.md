@@ -10,9 +10,23 @@ With a background in **Big Data Solution Architecture** and **Mobile Application
 - 🛠 **Business Intelligence & Automation:** Microsoft Power Automate, SharePoint  
 
 ## 🌟 Experience & Projects  
-- Built **HR Analytics Dashboards** to optimize workforce management  
-- Developed a **COVID-19 Global Dashboard** for real-time tracking and visualization  
-- Designed an **E-commerce Sales Dashboard** enhancing business performance metrics  
+### **Data Retrieval & Visualization** | Conestoga College  
+- 📌 **Objective:** Extract, clean, and visualize data from online sources.  
+- 🛠 **Tech Stack:** SQL (MSDBMS), Power BI, Python, Data Cleaning, Data Transformation  
+- 🔹 **Fetched real-time data** from APIs and integrated it into MSDBMS.  
+- 🔹 **Designed optimized SQL queries** for data cleaning and transformation.  
+- 🔹 **Developed interactive Power BI dashboards** to generate insights.  
+- 🔹 Automated reporting, reducing manual effort by **50%**.  
+
+### **HR Analytics Dashboard** | Conestoga College  
+- 🔹 Built an **HR dashboard** to improve workforce analytics.  
+- 🔹 Imported, cleaned, and transformed HR data using Power BI.  
+- 🔹 Created visual reports for **employee performance** and **attrition trends**.  
+
+### **COVID-19 Global Dashboard** | Portfolio Project  
+- 🔹 Tracked real-time **COVID-19 cases and trends**.  
+- 🔹 Built data models using **SQL and Power BI**.  
+- 🔹 Visualized global impact using **interactive maps**.  
 
 ## 🎯 Looking Forward To  
 - Exploring **data science applications** in business intelligence  
